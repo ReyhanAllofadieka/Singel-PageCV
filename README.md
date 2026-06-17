@@ -7,4 +7,4 @@ website untuk menampilkan cv
 - CSS
 
 ## github repository
-https://github.com/ReyhanAllofadieka/Singel-PageCV
+https://reyhanallofadieka.github.io/Singel-PageCV/
